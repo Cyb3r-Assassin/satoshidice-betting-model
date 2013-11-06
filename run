@@ -1,0 +1,2 @@
+#!/bin/bash
+google-chrome refresher && while [ 1 ]; do python satoshidice.py; sleep 1; done
